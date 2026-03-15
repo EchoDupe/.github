@@ -11,6 +11,7 @@ Explore a unique experience inspired by **sculk**, **echo energy**, and hidden m
 **IP:** `play.echodupels.minehut.gg`
 **Version:** `1.21.4`
 **Website:** https://echodupe-hub.netlify.app
+**Game Website:** https://echodupe.github.io/Games/
 **Created by:** **Skitxoe**
 
 ---
@@ -53,6 +54,12 @@ Stay updated and learn more about the server on the website:
 
 **https://echodupe-hub.netlify.app**
 
+If your bored go play our game website:
+
+**https://echodupe.github.io/Games/**
+
 ---
 
 **EchoDupeLS — Echoes from the Deep.**
+
+##GAME WEBSITE STILL IN DEVELOPMENT 
