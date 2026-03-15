@@ -1,65 +1,50 @@
-# EchoDupeLS
+<div align="center">
 
-**EchoDupeLS** is a **Minecraft 1.21.4 server** built around the mysterious power of **Echo Shards** and the **Deep Dark**.
-
-Explore a unique experience inspired by **sculk**, **echo energy**, and hidden mechanics deep underground.
-
----
-
-## Server Information
-
-**IP:** `play.echodupels.minehut.gg`
-**Version:** `1.21.4`
-**Website:** https://echodupe-hub.netlify.app
-**Game Website:** https://echodupe.github.io/Games/
-**Created by:** **Skitxoe**
+# 🌌 EchoDupeLS
+Gear is infinite but your heartbeat is on the line.
 
 ---
 
-## About EchoDupeLS
+### [Official Hub](https://echodupe-hub.netlify.app) • [Game Website](https://echodupe.github.io/Games/)
 
-EchoDupeLS is designed to bring players into a world influenced by the **Deep Dark** and the mysterious **Echo Shards** found within it.
+> **"GEAR IS INFINITE BUT YOUR HEARTBEAT IS ON THE LINE."**
 
-Players can explore a server environment built around echo-themed mechanics, dark atmospheres, and unique gameplay systems.
-
-Whether you're exploring, experimenting, or just playing with friends, **EchoDupeLS** aims to deliver a fun and memorable Minecraft experience.
+</div>
 
 ---
 
-## Theme
+## 🧭 Overview
+**EchoDupeLS** is a premium Minecraft 1.21.4 server centered around the haunting atmosphere of the **Deep Dark**. Built for players who seek a unique mechanical experience, the server integrates the mysterious properties of **Echo Shards** and **Sculk** into the core gameplay loop.
 
-The server is inspired by Minecraft's **Deep Dark biome** and the mysterious **Echo Shard** item.
-
-Expect environments and features influenced by:
-
-* **Sculk**
-* **Echo energy**
-* **Deep underground structures**
-* **Dark and atmospheric gameplay**
+Explore a world where the underground holds more than just ores—it holds the power of the Echo.
 
 ---
 
-## Join the Server
+## 🔌 Connection & Web Resources
+Access the server and our official platforms using the details below.
 
-Anyone can join and start playing.
-
-**IP:** `play.echodupels.minehut.gg`
-**Version:** **Minecraft 1.21.4**
-
----
-
-## Community
-
-Stay updated and learn more about the server on the website:
-
-**https://echodupe-hub.netlify.app**
-
-If your bored go play our game website:
-
-**https://echodupe.github.io/Games/**
+| Property | Specification |
+| :--- | :--- |
+| **Server Address** | `play.echodupels.minehut.gg` |
+| **Minecraft Version** | `1.21.4` (Java Edition) |
+| **Official Hub** | [echodupe-hub.netlify.app](https://echodupe-hub.netlify.app) |
+| **Game Website** | [echodupe.github.io/Games/](https://echodupe.github.io/Games/) |
+| **Project Lead** | Skitxoe |
 
 ---
 
-**EchoDupeLS — Echoes from the Deep.**
+## 🌑 Server Theme & Features
+The environment is meticulously designed to reflect the aesthetics and dangers of the Deep Dark biome.
 
-##GAME WEBSITE STILL IN DEVELOPMENT 
+* **Sculk Integration:** Gameplay systems influenced by sculk growth and vibration mechanics.
+* **Echo Energy:** Specialized features revolving around the rare Echo Shard item.
+* **Atmospheric Depth:** Custom-built underground structures and dark-themed environments.
+* **High-Stakes Gameplay:** A unique balance of infinite resources and lethal environments.
+
+---
+
+<div align="center">
+
+**EchoDupeLS** • *Gear is infinite but your heartbeat is on the line.*
+
+</div>
