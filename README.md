@@ -10,7 +10,7 @@ Explore a unique experience inspired by **sculk**, **echo energy**, and hidden m
 
 **IP:** `play.echodupels.minehut.gg`
 **Version:** `1.21.4`
-**Website:** https://echodupe-hub.netlify.app
+**Website:** echodupe.pages.dev
 **Created by:** **Skitxoe**
 
 ---
@@ -51,7 +51,7 @@ Anyone can join and start playing.
 
 Stay updated and learn more about the server on the website:
 
-**https://echodupe-hub.netlify.app**
+**echodupe.pages.dev**
 
 ---
 
